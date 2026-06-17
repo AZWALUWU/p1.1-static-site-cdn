@@ -1,3 +1,4 @@
+![Logo Proyek](./p1.1.png)
 # Comprehensive Deployment Guide: Global CDN, Custom Domain, & Free SSL/TLS
 
 This document provides an end-to-end technical breakdown of **Project 1.1**. It chronicles the step-by-step engineering process of building a static portfolio website, simulating an Enterprise Object Storage infrastructure locally using **LocalStack (AWS S3)**, and deploying a globally distributed live version using **Cloudflare** with a production-ready CI/CD pipeline.
