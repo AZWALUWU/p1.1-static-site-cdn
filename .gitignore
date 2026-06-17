@@ -1,0 +1,15 @@
+# LocalStack runtime data
+localstack/
+
+# Docker
+*.log
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# VS Code
+.vscode/
+
+# Environment variables
+.env
